@@ -5,5 +5,7 @@ public class FirstExample {
         System.out.println("Welcome to JAVA Programming");
         for (int i=1; i<=10; i++)
             System.out.println("Nikita Sandhu");
+
+            //Sample Commit - 1
     }
 }
