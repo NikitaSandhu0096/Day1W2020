@@ -7,7 +7,5 @@ public class FirstExample {
             System.out.println("Nikita Sandhu");
 
             //Sample Commit - 1
-
-        System.out.println("Commit");
     }
 }
